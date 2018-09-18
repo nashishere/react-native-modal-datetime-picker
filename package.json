@@ -30,7 +30,8 @@
   },
   "dependencies": {
     "prop-types": "^15.6.2",
-    "react-native-modal": "^6.5.0"
+    "react-native-modal": "^6.5.0",
+    "rn-datepicker-nougat-spinner-fix": "^0.2.2"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.6",

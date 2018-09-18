@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { DatePickerAndroid, TimePickerAndroid } from "react-native";
+import { TimePickerAndroid } from "react-native";
+import { DatePickerAndroid } from "rn-datepicker-nougat-spinner-fix";
 
 export default class CustomDatePickerAndroid extends React.PureComponent {
   static propTypes = {
